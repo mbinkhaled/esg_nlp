@@ -21,7 +21,8 @@ def preprocess(texts):
 #     for w in words:
 #         rootWord=ps.stem(w)
     
-    tokens = [lemmatizer.lemmatize(token) for token in nltk.word_tokenize(texts) if token not in stop_words and is_words(token)]
+    # tokens = [lemmatizer.lemmatize(token) for token in nltk.word_tokenize(texts) if token not in stop_words and len(token) < 18 and is_words(token)]
+    tokens = [lemmatizer.lemmatize(token) for token in texts.split() if token not in stop_words and len(token) < 18 and is_words(token)]
     # tokens = [ps.stem(token) for token in nltk.word_tokenize(texts) if token not in stop_words and is_words(token)]
     
     return ' '.join(tokens)
@@ -43,6 +44,10 @@ def aggregate_cik_texts(cik, filetype):
         with open(os.path.join(pkl_path, 'token_counter.pkl'), 'rb') as f:
             counter = pickle.load(f)
         return {"texts": texts, "counter": counter}
+        # import shutil
+        # shutil.rmtree(pkl_path)
+        # os.mkdir(pkl_path)
+
 
     rawtext_dir = os.path.join(cik_dir, "rawtext")
     # goes into the directory to find the path for txtfiles
@@ -53,6 +58,8 @@ def aggregate_cik_texts(cik, filetype):
     
     texts = ""
     for file in all_files:
+        if file[0] == '.' or int(file.split('_')[1].split('-')[0]) < 2020:
+            continue
         with open(os.path.join("data", filetype, cik, "rawtext", file), encoding = "utf8") as f:
             string_temp = f.read().lower()
             texts += preprocess(string_temp)
