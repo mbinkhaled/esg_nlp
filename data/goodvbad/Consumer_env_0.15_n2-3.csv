@@ -1,0 +1,201 @@
+,word,good_score,bad_score,good_score_all,bad_score_all,count,good_nums,bad_nums,diff
+177,store sale,0.52,0.0,0.4,0.0,272,7,0,7
+158,retail store,0.5,0.0,0.39,0.0,206,7,0,7
+176,store closure,0.58,0.0,0.38,0.0,207,6,0,6
+78,fiscal million,0.57,0.0,0.38,0.0,194,6,0,6
+83,fourth quarter fiscal,0.57,13.92,0.38,1.55,186,6,1,5
+40,cost expected,0.0,13.09,0.0,7.27,200,0,5,5
+109,million fiscal,0.57,9.53,0.38,1.06,311,6,1,5
+71,first quarter fiscal,0.57,9.53,0.38,1.06,550,6,1,5
+163,second quarter fiscal,0.67,0.0,0.37,0.0,449,5,0,5
+89,gross profit,0.52,13.91,0.4,3.09,385,7,2,5
+26,comparable store,0.49,0.0,0.27,0.0,287,5,0,5
+128,net revenue,0.41,11.42,0.27,2.54,922,6,2,4
+62,equity method,0.05,12.49,0.01,6.94,186,1,5,4
+30,condensed financial,0.0,14.66,0.0,6.52,240,0,4,4
+50,designated hedging,0.59,14.31,0.13,9.54,228,2,6,4
+47,decreased million million,0.41,12.1,0.27,2.69,192,6,2,4
+145,quarter fiscal compared,0.83,0.0,0.37,0.0,201,4,0,4
+116,million year,0.38,13.62,0.13,10.6,237,3,7,4
+115,million three month,0.75,12.19,0.25,9.48,231,3,7,4
+114,million three,0.75,12.19,0.25,9.48,315,3,7,4
+186,trade receivables,0.05,14.67,0.01,8.15,195,1,5,4
+3,adjusted ebitda,0.05,13.1,0.01,7.28,341,1,5,4
+196,xbrl taxonomy extension,0.36,16.37,0.28,5.46,200,7,3,4
+195,xbrl taxonomy,0.36,16.37,0.28,5.46,201,7,3,4
+68,financial service,0.0,11.01,0.0,4.89,374,0,4,4
+79,fiscal primarily,0.67,9.53,0.37,1.06,201,5,1,4
+185,third quarter fiscal,0.67,9.53,0.37,1.06,374,5,1,4
+77,fiscal fiscal,0.67,9.92,0.37,2.2,308,5,2,3
+59,ended june,0.58,13.62,0.26,10.6,1700,4,7,3
+124,month fiscal,0.79,0.0,0.26,0.0,737,3,0,3
+120,month ended june,0.38,14.31,0.13,9.54,1406,3,6,3
+130,north america,0.67,13.21,0.37,11.74,242,5,8,3
+51,discontinued operation,0.5,14.66,0.11,8.14,207,2,5,3
+75,fiscal compared,0.67,9.92,0.37,2.2,528,5,2,3
+48,defined benefit plan,0.5,12.65,0.11,7.03,187,2,5,3
+117,million year ended,0.38,12.5,0.13,8.33,220,3,6,3
+44,currency forward,0.59,13.1,0.13,7.28,236,2,5,3
+88,gross margin,0.58,14.61,0.39,4.87,339,6,3,3
+140,percentage net,0.5,17.15,0.28,3.81,221,5,2,3
+41,credit card,0.59,11.04,0.39,3.68,323,6,3,3
+144,quarter fiscal,0.57,11.25,0.38,3.75,1627,6,3,3
+164,secured note,0.52,11.99,0.4,5.33,195,7,4,3
+27,compared first,0.58,12.76,0.38,4.25,294,6,3,3
+173,special item,0.0,16.37,0.0,5.46,278,0,3,3
+156,restructuring charge,0.5,14.66,0.11,8.14,255,2,5,3
+152,reference rate,0.36,12.63,0.12,8.42,200,3,6,3
+32,consolidated condensed,0.0,14.61,0.0,4.87,274,0,3,3
+141,plan asset,0.55,13.94,0.24,9.29,261,4,6,2
+183,team member,0.13,12.9,0.03,5.73,266,2,4,2
+169,service provider,0.59,12.7,0.39,5.65,206,6,4,2
+172,six month fiscal,0.62,0.0,0.14,0.0,355,2,0,2
+174,statement income,0.58,12.1,0.39,5.38,197,6,4,2
+105,march december,0.31,14.31,0.14,9.54,282,4,6,2
+98,interest rate swap,0.28,11.9,0.12,7.93,195,4,6,2
+102,leverage ratio,0.52,14.61,0.29,4.87,220,5,3,2
+166,senior note due,0.58,13.43,0.26,8.95,419,4,6,2
+97,input cost,0.0,14.37,0.0,3.19,234,0,2,2
+184,term loan,0.55,13.56,0.24,9.04,535,4,6,2
+188,twelve week,0.08,0.0,0.02,0.0,210,2,0,2
+190,unsecured note,0.42,11.99,0.28,5.33,269,6,4,2
+192,vehicle sale,0.1,10.28,0.03,1.14,241,3,1,2
+194,week ended,0.43,10.31,0.14,1.15,703,3,1,2
+197,year ended december,0.31,14.31,0.14,9.54,1697,4,6,2
+168,senior unsecured note,0.42,11.99,0.28,5.33,266,6,4,2
+161,sale volume,0.06,14.66,0.02,8.14,297,3,5,2
+119,month ended december,0.75,14.38,0.25,7.99,423,3,5,2
+132,norwegian cruise line,0.0,11.42,0.0,2.54,293,0,2,2
+137,ordinary share,0.0,11.42,0.0,2.54,223,0,2,2
+146,rate swap,0.28,11.9,0.12,7.93,212,4,6,2
+134,officer pursuant,0.26,12.9,0.17,5.73,181,6,4,2
+133,note condensed consolidated,0.59,11.91,0.39,5.29,651,6,4,2
+147,reasonably possible,0.55,14.31,0.24,9.54,218,4,6,2
+150,recorded within,0.57,12.67,0.38,5.63,245,6,4,2
+131,norwegian cruise,0.0,11.42,0.0,2.54,316,0,2,2
+82,forward contract,0.71,12.03,0.24,6.69,248,3,5,2
+153,report fiscal,0.49,12.76,0.27,4.25,206,5,3,2
+129,nine month fiscal,0.62,0.0,0.14,0.0,359,2,0,2
+154,report fiscal year,0.49,12.76,0.27,4.25,201,5,3,2
+127,net earnings,0.08,14.51,0.03,8.06,654,3,5,2
+123,month ended september,0.58,14.31,0.26,9.54,790,4,6,2
+121,month ended march,0.58,14.31,0.26,9.54,1013,4,6,2
+100,june compared,0.38,14.2,0.13,7.89,186,3,5,2
+199,year ended november,0.0,9.92,0.0,2.2,369,0,2,2
+39,corporation subsidiariesnotes,0.0,11.72,0.0,2.61,219,0,2,2
+74,fiscal company,0.67,11.25,0.37,3.75,246,5,3,2
+22,company recorded,0.58,13.04,0.39,5.8,320,6,4,2
+64,export credit,0.0,11.42,0.0,2.54,189,0,2,2
+20,commercial paper,0.57,14.86,0.38,6.6,469,6,4,2
+19,class common,0.36,11.72,0.16,2.61,233,4,2,2
+25,comparable prior year,0.43,13.9,0.14,1.54,221,3,1,2
+33,consolidated condensed financial,0.0,14.95,0.0,3.32,201,0,2,2
+15,carnival corporation,0.0,11.42,0.0,2.54,375,0,2,2
+14,brand home,0.0,11.72,0.0,2.6,205,0,2,2
+58,ended july,0.68,10.79,0.38,3.6,206,5,3,2
+57,ended february,0.33,13.58,0.15,9.06,471,4,6,2
+24,comparable prior,0.43,13.9,0.14,1.54,221,3,1,2
+42,cruise line,0.0,11.42,0.0,2.54,381,0,2,2
+46,current report filed,0.56,14.31,0.25,9.54,221,4,6,2
+11,average sale,0.0,12.18,0.0,2.71,445,0,2,2
+9,annual report fiscal,0.49,12.76,0.27,4.25,203,5,3,2
+12,average sale price,0.0,12.18,0.0,2.71,288,0,2,2
+76,fiscal excluding,1.05,0.0,0.23,0.0,231,2,0,2
+35,contentsgeneral motor,0.0,10.28,0.0,1.14,453,0,1,1
+160,sale price,0.27,11.9,0.15,7.93,391,5,6,1
+138,per common,0.58,14.66,0.26,8.14,223,4,5,1
+159,revolving credit agreement,0.41,14.84,0.14,6.6,187,3,4,1
+139,per diluted,0.48,13.76,0.27,6.12,293,5,4,1
+28,compared period,0.26,13.53,0.14,6.01,297,5,4,1
+155,restricted cash,0.67,13.05,0.37,8.7,218,5,6,1
+84,free cash,0.64,13.01,0.14,4.34,229,2,3,1
+37,continuing operation,0.3,14.66,0.13,8.14,215,4,5,1
+36,contentsgeneral motor company,0.0,10.28,0.0,1.14,453,0,1,1
+162,sealed air,0.0,13.92,0.0,1.55,303,0,1,1
+149,reclassified accumulated comprehensive,0.6,13.1,0.27,7.28,191,4,5,1
+167,senior secured,0.55,12.26,0.25,4.09,353,4,3,1
+23,company subsidiariesnotes,0.0,10.28,0.0,1.14,200,0,1,1
+165,segment net,0.43,13.04,0.14,5.8,214,3,4,1
+198,year ended march,0.94,0.0,0.1,0.0,393,1,0,1
+193,vf corporation,0.94,0.0,0.1,0.0,305,1,0,1
+7,allowance loan,0.08,9.9,0.01,2.2,238,1,2,1
+191,used vehicle,0.09,10.28,0.02,1.14,359,2,1,1
+8,allowance loan loss,0.08,9.9,0.01,2.2,199,1,2,1
+189,unconsolidated entity,1.05,9.53,0.23,1.06,503,2,1,1
+10,auto loan,0.08,0.0,0.01,0.0,326,1,0,1
+13,bear interest,0.52,13.38,0.29,5.95,210,5,4,1
+180,subsidiariesnotes condensed consolidated,0.13,11.24,0.03,3.75,295,2,3,1
+179,subsidiariesnotes condensed,0.13,11.24,0.03,3.75,295,2,3,1
+178,stuart weitzman,1.16,0.0,0.13,0.0,316,1,0,1
+175,statement operation,0.68,13.58,0.38,9.05,491,5,6,1
+16,carnival plc,0.0,10.31,0.0,1.15,269,0,1,1
+17,charge related,0.69,14.62,0.38,6.5,195,5,4,1
+18,class action,0.53,11.76,0.29,5.23,204,5,4,1
+135,operating income,0.7,11.76,0.39,5.23,381,5,4,1
+21,company belief,0.51,14.66,0.28,6.51,208,5,4,1
+43,cruise line holding,0.0,12.54,0.0,1.39,341,0,1,1
+81,fortune brand home,0.0,13.9,0.0,1.54,204,0,1,1
+108,million first six,0.43,17.6,0.14,3.91,184,3,2,1
+96,incorporated reference exhibit,0.82,11.77,0.36,6.54,263,4,5,1
+66,filed exhibit,0.37,14.86,0.16,4.95,216,4,3,1
+67,filed february,0.58,13.33,0.26,7.4,191,4,5,1
+110,million homebuilding,0.0,9.53,0.0,1.06,185,0,1,1
+45,current report dated,0.09,12.18,0.03,2.71,246,3,2,1
+104,loan loss,0.08,9.9,0.01,2.2,312,1,2,1
+103,line holding,0.0,12.54,0.0,1.39,341,0,1,1
+101,kate spade,1.16,0.0,0.13,0.0,342,1,0,1
+99,international paper,0.0,14.82,0.0,1.65,506,0,1,1
+95,incorporated herein reference,0.78,11.76,0.26,5.23,186,3,4,1
+63,expense current,0.42,17.15,0.14,3.81,196,3,2,1
+94,impact foreign,0.82,12.71,0.36,4.24,445,4,3,1
+93,home delivery,0.09,9.53,0.02,1.06,183,2,1,1
+92,herein reference exhibit,1.05,12.24,0.23,4.08,312,2,3,1
+90,guest cruise,0.0,10.31,0.0,1.15,186,0,1,1
+80,fortune brand,0.0,13.9,0.0,1.54,319,0,1,1
+87,gm financial,0.0,10.28,0.0,1.14,536,0,1,1
+86,general motor,0.0,10.28,0.0,1.14,287,0,1,1
+85,free cash flow,0.64,13.01,0.14,4.34,200,2,3,1
+118,month ended august,0.08,9.92,0.01,2.2,308,1,2,1
+0,accompanying condensed,0.09,11.54,0.04,3.85,252,4,3,1
+49,derivative contract,0.83,14.21,0.37,7.89,221,4,5,1
+126,motor company subsidiariesnotes,0.0,10.28,0.0,1.14,200,0,1,1
+56,ended august,0.42,11.0,0.14,4.89,508,3,4,1
+53,dollar share except,0.05,0.0,0.01,0.0,240,1,0,1
+61,ended november,0.42,13.54,0.14,6.02,505,3,4,1
+157,result cash,0.52,15.11,0.29,8.4,221,5,5,0
+143,quarter compared,0.56,14.66,0.25,6.52,382,4,4,0
+181,subsidiariesnotes consolidated,0.1,11.24,0.03,3.75,268,3,3,0
+182,subsidiariesnotes consolidated financial,0.1,11.24,0.03,3.75,268,3,3,0
+55,effective income tax,0.45,14.51,0.25,8.06,283,5,5,0
+38,corporation fiscal,0.94,9.53,0.1,1.06,216,1,1,0
+187,trade sale,0.5,17.15,0.11,3.81,190,2,2,0
+142,principal amount senior,0.52,11.32,0.29,6.29,216,5,5,0
+91,herein reference,0.82,11.76,0.36,5.23,369,4,4,0
+54,effective income,0.45,14.51,0.25,8.06,283,5,5,0
+52,dollar share,0.05,14.82,0.01,1.65,245,1,1,0
+6,adopted pursuant section,0.57,13.95,0.25,6.2,182,4,4,0
+5,adopted pursuant,0.57,13.95,0.25,6.2,182,4,4,0
+4,adjusted net,0.08,12.26,0.03,4.09,225,3,3,0
+2,accumulated comprehensive loss,0.28,12.1,0.12,5.38,185,4,4,0
+73,first six month,0.43,16.37,0.14,5.46,575,3,3,0
+148,reclassified accumulated,0.67,13.1,0.37,7.28,193,5,5,0
+1,accompanying condensed consolidated,0.1,11.54,0.03,3.85,215,3,3,0
+125,motor company,0.05,10.28,0.01,1.14,644,1,1,0
+65,favorable impact,0.68,12.65,0.38,7.03,206,5,5,0
+60,ended may,0.67,13.34,0.37,7.41,553,5,5,0
+29,condensed consolidated statement,0.52,12.49,0.29,6.94,526,5,5,0
+113,million third quarter,0.6,14.66,0.27,6.51,184,4,4,0
+112,million third,0.6,14.66,0.27,6.51,187,4,4,0
+111,million second quarter,0.49,14.51,0.27,8.06,209,5,5,0
+31,condensed note,0.05,14.82,0.01,1.65,181,1,1,0
+69,first nine,0.43,16.37,0.14,5.46,512,3,3,0
+122,month ended may,0.51,9.92,0.11,2.2,297,2,2,0
+107,million first quarter,0.6,14.66,0.27,6.52,185,4,4,0
+170,share except,0.05,13.9,0.01,1.54,242,1,1,0
+171,share except per,0.05,13.9,0.01,1.54,242,1,1,0
+106,million first,0.6,14.66,0.27,6.52,583,4,4,0
+70,first nine month,0.43,16.37,0.14,5.46,511,3,3,0
+151,reference exhibit current,0.55,12.13,0.24,5.39,275,4,4,0
+34,consolidated statement operation,0.68,14.24,0.38,7.91,409,5,5,0
+72,first six,0.43,16.37,0.14,5.46,576,3,3,0
+136,operating profit,0.3,14.86,0.13,6.6,332,4,4,0
