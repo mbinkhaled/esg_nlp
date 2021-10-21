@@ -1,0 +1,201 @@
+,word,good_score,bad_score,good_score_all,bad_score_all,count,good_nums,bad_nums,diff
+126,partially owned,0.0,6.0,0.0,6.0,337,0,4,4
+5,aggregate principal,4.06,6.1,4.06,1.52,249,5,1,4
+6,aggregate principal amount,4.06,6.1,4.06,1.52,208,5,1,4
+163,share cash,4.4,6.0,0.88,6.0,232,1,4,3
+89,incorporated reference exhibit,3.97,6.12,3.17,1.53,192,4,1,3
+191,unsecured senior,0.0,5.96,0.0,4.47,788,0,3,3
+150,redevelopment project,4.43,6.0,0.89,6.0,218,1,4,3
+20,cash basis,4.43,6.0,0.89,6.0,243,1,4,3
+41,cumulative redeemable,4.23,6.0,0.85,6.0,174,1,4,3
+40,convertible preferred,0.0,6.04,0.0,4.53,176,0,3,3
+172,taxonomy extension,3.98,5.88,3.18,1.47,175,4,1,3
+46,development redevelopment project,4.43,5.96,0.89,4.47,194,1,3,2
+45,development property,4.08,6.0,3.26,3.0,178,4,2,2
+141,realty consolidated,0.0,6.11,0.0,3.06,206,0,2,2
+159,senior housing,4.42,0.0,1.77,0.0,634,2,0,2
+148,realty trust,0.0,6.11,0.0,3.06,400,0,2,2
+61,equivalent restricted,4.02,6.11,3.21,3.06,205,4,2,2
+63,estate joint,4.4,5.97,0.88,4.48,639,1,3,2
+145,realty realty,0.0,6.11,0.0,3.06,382,0,2,2
+144,realty filed,0.0,6.11,0.0,3.06,187,0,2,2
+100,ltip unit,4.23,6.03,0.85,4.53,410,1,3,2
+139,real estate joint,4.4,5.97,0.88,4.48,632,1,3,2
+140,realty common,0.0,6.11,0.0,3.06,205,0,2,2
+71,fifth avenue,0.0,6.0,0.0,3.0,252,0,2,2
+170,stock repurchase,3.97,5.89,3.17,2.94,184,4,2,2
+74,financial statement item,3.97,6.01,3.17,3.0,189,4,2,2
+75,foreign currency translation,3.98,6.0,3.18,3.0,275,4,2,2
+79,fund operation,4.32,6.0,1.73,6.0,197,2,4,2
+134,preferred unit,4.23,6.03,0.85,4.53,250,1,3,2
+129,per diluted,4.0,6.03,0.8,4.53,250,1,3,2
+87,income rental,0.0,6.0,0.0,3.0,186,0,2,2
+123,operation comprehensive,0.0,5.89,0.0,2.94,170,0,2,2
+121,operating partnership,4.23,6.03,0.85,4.53,1789,1,3,2
+95,lease accounting,4.08,6.0,3.26,3.0,257,4,2,2
+112,net operating income,4.27,6.01,3.41,3.0,392,4,2,2
+106,million square foot,4.23,6.03,0.85,4.53,309,1,3,2
+168,statement item,3.97,6.01,3.17,3.0,191,4,2,2
+105,million square,4.23,6.03,0.85,4.53,380,1,3,2
+21,cash equivalent restricted,4.02,6.11,3.21,3.06,205,4,2,2
+26,common unit,4.23,6.03,0.85,4.53,317,1,3,2
+18,attributable common,4.32,6.0,1.73,6.0,427,2,4,2
+19,attributable noncontrolling,4.33,6.0,1.73,6.0,256,2,4,2
+188,unit per unit,0.0,5.99,0.0,3.0,192,0,2,2
+193,unsecured senior note,0.0,6.0,0.0,3.0,246,0,2,2
+10,amount million,3.98,5.89,3.18,2.94,261,4,2,2
+13,annual rental,0.0,5.89,0.0,2.94,261,0,2,2
+184,unconsolidated venture,4.32,0.0,1.73,0.0,248,2,0,2
+7,aggregating million,4.23,6.04,0.85,4.53,207,1,3,2
+190,unsecured revolving,4.22,6.03,1.69,4.53,171,2,3,1
+135,premium outlet,0.0,5.88,0.0,1.47,253,0,1,1
+131,per unit amountsand,0.0,5.88,0.0,1.47,178,0,1,1
+136,primarily result,3.97,6.0,2.38,6.0,300,3,4,1
+137,privately held,3.24,6.01,0.65,3.0,410,1,2,1
+189,unsecured note,4.42,5.97,1.77,4.48,446,2,3,1
+138,privately held entity,0.0,5.9,0.0,1.48,330,0,1,1
+133,polo ralph,0.0,5.88,0.0,1.47,175,0,1,1
+169,statement operation,3.89,5.89,2.33,2.94,369,3,2,1
+192,unsecured senior line,0.0,5.9,0.0,1.48,404,0,1,1
+128,partnership unit,4.32,6.03,1.73,4.53,303,2,3,1
+125,part consolidated,3.74,5.97,1.49,4.48,173,2,3,1
+194,vornado realty,0.0,6.12,0.0,1.53,880,0,1,1
+195,weyerhaeuser company,4.0,0.0,0.8,0.0,326,1,0,1
+116,noi share cash,0.0,6.12,0.0,1.53,215,0,1,1
+115,noi share,0.0,6.12,0.0,1.53,400,0,1,1
+113,net sale,4.2,6.1,1.68,1.52,224,2,1,1
+196,weyerhaeuser company annual,4.0,0.0,0.8,0.0,214,1,0,1
+197,wholly owned,4.32,6.04,1.73,4.53,192,2,3,1
+111,net earnings,3.82,6.0,2.29,3.0,572,3,2,1
+109,mortgage debt,4.33,5.88,1.73,1.47,171,2,1,1
+198,wood product,4.0,0.0,0.8,0.0,306,1,0,1
+127,partnership interest,4.32,6.03,1.73,4.53,179,2,3,1
+187,unit per,4.22,6.03,1.69,4.53,215,2,3,1
+171,strategic capital,3.74,5.9,1.49,1.48,324,2,1,1
+181,unconsolidated joint venture,4.42,5.96,1.77,4.47,260,2,3,1
+173,tenant operator,4.43,0.0,0.89,0.0,171,1,0,1
+174,time square,0.0,6.12,0.0,1.53,181,0,1,1
+167,simon property,0.0,5.88,0.0,1.47,433,0,1,1
+166,simon operating,0.0,5.88,0.0,1.47,197,0,1,1
+165,share unit,4.12,6.03,1.65,4.53,184,2,3,1
+175,trust vornado,0.0,6.12,0.0,1.53,243,0,1,1
+176,trust vornado realty,0.0,6.12,0.0,1.53,243,0,1,1
+164,share cash basis,0.0,6.12,0.0,1.53,201,0,1,1
+180,unconsolidated joint,4.42,5.96,1.77,4.47,575,2,3,1
+162,senior unsecured note,4.43,6.0,0.89,3.0,290,1,2,1
+103,million percent,4.0,0.0,0.8,0.0,197,1,0,1
+160,senior line,0.0,5.9,0.0,1.48,410,0,1,1
+156,revolving credit facility,3.62,6.03,1.45,4.53,373,2,3,1
+142,realty digital,0.0,6.1,0.0,1.52,359,0,1,1
+154,report nav,0.0,5.9,0.0,1.48,183,0,1,1
+153,report digital realty,0.0,6.1,0.0,1.52,170,0,1,1
+152,reference exhibit vornado,0.0,6.12,0.0,1.53,171,0,1,1
+151,reference exhibit current,4.22,5.99,2.53,3.0,306,3,2,1
+182,unconsolidated real,3.82,5.9,1.53,1.48,557,2,1,1
+149,realty trust vornado,0.0,6.12,0.0,1.53,243,0,1,1
+183,unconsolidated real estate,3.82,5.9,1.53,1.48,557,2,1,1
+147,realty subsidiariesnotes,0.0,6.1,0.0,1.52,287,0,1,1
+146,realty realty subsidiariesnotes,0.0,6.1,0.0,1.52,287,0,1,1
+185,unit amountsand,0.0,5.88,0.0,1.47,178,0,1,1
+186,unit amountsand indicated,0.0,5.88,0.0,1.47,178,0,1,1
+143,realty digital realty,0.0,6.1,0.0,1.52,319,0,1,1
+161,senior line credit,0.0,5.9,0.0,1.48,228,0,1,1
+0,accompanying consolidated statement,3.82,5.88,1.53,1.47,175,2,1,1
+57,entity report,0.0,5.9,0.0,1.48,269,0,1,1
+67,exhibit current report,4.22,5.99,2.53,3.0,308,3,2,1
+37,contentsindex financial,0.0,6.1,0.0,1.52,301,0,1,1
+38,contentssimon property,0.0,5.88,0.0,1.47,291,0,1,1
+39,contentssimon property property,0.0,5.88,0.0,1.47,201,0,1,1
+42,currency rate,3.74,5.96,1.49,4.47,186,2,3,1
+43,current report filed,4.22,6.0,2.53,3.0,486,3,2,1
+47,digital realty,0.0,6.1,0.0,1.52,2222,0,1,1
+48,digital realty common,0.0,6.1,0.0,1.52,193,0,1,1
+49,digital realty digital,0.0,6.1,0.0,1.52,344,0,1,1
+50,digital realty filed,0.0,6.1,0.0,1.52,179,0,1,1
+51,direct financing,4.42,6.04,1.77,4.53,271,2,3,1
+52,dollar amount,4.2,6.12,1.68,1.53,242,2,1,1
+53,dollar amount million,4.0,0.0,0.8,0.0,197,1,0,1
+58,entity report nav,0.0,5.9,0.0,1.48,179,0,1,1
+59,equity sale,3.84,5.96,1.53,4.47,352,2,3,1
+62,estate fund,3.84,6.12,1.53,1.53,174,2,1,1
+64,estate joint venture,4.4,5.89,0.88,2.94,332,1,2,1
+65,except per unit,4.33,6.03,1.73,4.53,233,2,3,1
+36,contentsdigital realty,0.0,6.1,0.0,1.52,240,0,1,1
+35,consolidated statement operation,3.89,5.89,2.33,2.94,312,3,2,1
+32,condensed consolidated financial,4.4,6.11,0.88,3.06,427,1,2,1
+14,annual rental revenue,0.0,5.9,0.0,1.48,191,0,1,1
+2,acquired lease,4.33,6.04,1.73,4.53,183,2,3,1
+3,adjusted ebitda,3.62,5.9,1.45,1.48,335,2,1,1
+4,adjusted noi,4.43,0.0,0.89,0.0,258,1,0,1
+8,alexandria real,0.0,5.9,0.0,1.48,237,0,1,1
+9,alexandria real estate,0.0,5.9,0.0,1.48,237,0,1,1
+11,amountsand indicated,0.0,5.88,0.0,1.47,178,0,1,1
+12,amountsand indicated million,0.0,5.88,0.0,1.47,178,0,1,1
+15,apartment community,4.4,0.0,0.88,0.0,177,1,0,1
+31,condensed consolidated,4.4,6.11,0.88,3.06,655,1,2,1
+16,apartment home,4.4,0.0,0.88,0.0,213,1,0,1
+17,approximately million square,4.23,5.99,0.85,3.0,176,1,2,1
+23,class unit,4.23,6.11,0.85,3.06,344,1,2,1
+24,commercial paper,4.43,5.89,0.89,2.94,597,1,2,1
+27,company annual,4.0,0.0,0.8,0.0,214,1,0,1
+28,company annual report,4.0,0.0,0.8,0.0,212,1,0,1
+29,compared period,3.82,6.0,2.29,3.0,249,3,2,1
+66,exhibit current,4.22,5.99,2.53,3.0,308,3,2,1
+199,workplace solution,3.24,0.0,0.65,0.0,180,1,0,1
+68,exhibit vornado,0.0,6.12,0.0,1.53,172,0,1,1
+78,forward sale,4.42,6.1,1.77,1.52,285,2,1,1
+94,investment privately held,0.0,5.9,0.0,1.48,252,0,1,1
+93,investment privately,0.0,5.9,0.0,1.48,252,0,1,1
+91,integral part,3.96,5.89,2.37,2.94,230,3,2,1
+69,exhibit vornado realty,0.0,6.12,0.0,1.53,171,0,1,1
+88,income unconsolidated,4.02,5.89,2.41,2.94,188,3,2,1
+85,held entity report,0.0,5.9,0.0,1.48,257,0,1,1
+83,global workplace solution,3.24,0.0,0.65,0.0,179,1,0,1
+82,global workplace,3.24,0.0,0.65,0.0,186,1,0,1
+81,global revolving credit,0.0,6.1,0.0,1.52,236,0,1,1
+80,global revolving,0.0,6.1,0.0,1.52,237,0,1,1
+90,indicated million,0.0,5.88,0.0,1.47,178,0,1,1
+77,forward equity sale,4.43,6.0,0.89,3.0,333,1,2,1
+73,financial except per,0.0,5.88,0.0,1.47,178,0,1,1
+72,financial except,4.43,5.99,0.89,3.0,190,1,2,1
+76,forward equity,4.43,6.0,0.89,3.0,360,1,2,1
+70,extinguishment debt,4.21,5.96,2.53,4.47,181,3,3,0
+118,note integral,3.74,5.89,1.49,2.94,228,2,2,0
+117,note due reference,4.23,6.1,0.85,1.52,187,1,1,0
+25,common stockholder,4.35,5.96,2.61,4.47,250,3,3,0
+92,interest operating,4.28,6.03,2.57,4.53,303,3,3,0
+22,certification chief,3.82,6.03,2.29,4.53,228,3,3,0
+114,new lease accounting,3.74,6.0,1.49,3.0,175,2,2,0
+155,revolving credit,3.82,6.03,2.29,4.53,727,3,3,0
+30,compared prior,4.28,5.97,2.57,4.48,202,3,3,0
+96,lease income,4.02,5.97,2.41,4.48,177,3,3,0
+97,life science,3.84,6.0,1.53,3.0,559,2,2,0
+110,mortgage loan,3.89,6.03,2.33,4.53,191,3,3,0
+98,line credit,3.89,5.96,2.33,4.47,490,3,3,0
+108,million three month,3.97,5.96,2.38,4.47,211,3,3,0
+107,million three,3.97,5.96,2.38,4.47,253,3,3,0
+99,loss early,4.32,6.0,1.73,3.0,180,2,2,0
+1,accompanying note integral,3.74,5.89,1.49,2.94,228,2,2,0
+104,million primarily,3.89,5.96,2.33,4.47,185,3,3,0
+119,note integral part,3.74,5.89,1.49,2.94,228,2,2,0
+178,unaudited consolidated financial,3.89,5.97,2.33,4.48,299,3,3,0
+179,unconsolidated entity,4.32,5.99,1.73,3.0,402,2,2,0
+157,sale agreement,4.42,6.0,1.77,3.0,418,2,2,0
+158,section within,3.24,5.9,0.65,1.48,174,1,1,0
+54,due reference,4.23,6.1,0.85,1.52,187,1,1,0
+55,due reference exhibit,4.23,6.1,0.85,1.52,187,1,1,0
+132,per unit per,4.43,5.88,0.89,1.47,182,1,1,0
+56,early extinguishment,4.21,5.96,2.53,4.47,289,3,3,0
+130,per square,4.35,6.03,2.61,4.53,177,3,3,0
+101,million aggregate,3.97,5.96,2.38,4.47,211,3,3,0
+44,data center,3.24,6.1,0.65,1.52,843,1,1,0
+84,held entity,3.24,5.9,0.65,1.48,332,1,1,0
+86,impairment loss,4.02,6.04,2.41,4.53,198,3,3,0
+124,parent company,4.43,6.1,0.89,1.52,217,1,1,0
+60,equity sale agreement,4.43,5.9,0.89,1.48,223,1,1,0
+122,operating property,4.35,5.96,2.61,4.47,336,3,3,0
+34,consolidated net,3.82,6.03,2.29,4.53,210,3,3,0
+33,consolidated financial except,4.43,5.88,0.89,1.47,185,1,1,0
+120,note payable,4.02,6.04,2.41,4.53,259,3,3,0
+177,unaudited consolidated,3.89,5.97,2.33,4.48,312,3,3,0
+102,million increase,3.82,5.96,2.29,4.47,178,3,3,0

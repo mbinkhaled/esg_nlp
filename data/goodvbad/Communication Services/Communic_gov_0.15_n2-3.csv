@@ -1,0 +1,201 @@
+,word,good_score,bad_score,good_score_all,bad_score_all,count,good_nums,bad_nums,diff
+111,negative impact,5.7,0.0,5.7,0.0,111,3,0,3
+16,capital stock,0.0,10.57,0.0,10.57,138,0,3,3
+46,could harm financial,0.0,10.9,0.0,7.27,98,0,2,2
+171,statement included part,5.0,10.57,1.67,10.57,99,1,3,2
+65,expense consist,5.0,10.57,1.67,10.57,95,1,3,2
+118,offering period,5.56,0.0,3.7,0.0,131,2,0,2
+163,share common stock,5.7,9.92,5.7,3.31,99,3,1,2
+162,share common,5.7,9.92,5.7,3.31,141,3,1,2
+161,share class common,0.0,10.9,0.0,7.27,166,0,2,2
+42,consumer hardware,0.0,10.9,0.0,7.27,162,0,2,2
+160,share class,0.0,10.9,0.0,7.27,209,0,2,2
+44,contentsnotes consolidated,6.06,0.0,4.04,0.0,153,2,0,2
+45,contentsnotes consolidated financial,6.06,0.0,4.04,0.0,153,2,0,2
+170,statement except per,6.11,10.57,2.04,10.57,154,1,3,2
+27,class common stock,0.0,10.9,0.0,7.27,420,0,2,2
+47,credit agreement,5.7,9.92,5.7,3.31,248,3,1,2
+126,pension plan,5.7,9.92,5.7,3.31,121,3,1,2
+127,pension postretirement,6.06,0.0,4.04,0.0,109,2,0,2
+54,derivative instrument,5.7,11.62,5.7,3.87,118,3,1,2
+55,development expense,5.0,10.57,1.67,10.57,87,1,3,2
+132,postretirement benefit,6.06,0.0,4.04,0.0,113,2,0,2
+133,price class,0.0,10.9,0.0,7.27,91,0,2,2
+135,product change,0.0,10.9,0.0,7.27,100,0,2,2
+146,require significant,6.0,10.57,2.0,10.57,103,1,3,2
+141,reference exhibit,5.7,10.18,5.7,3.39,180,3,1,2
+66,expense current,0.0,10.9,0.0,7.27,106,0,2,2
+29,common stock class,0.0,10.9,0.0,7.27,88,0,2,2
+139,quarterly report quarter,5.7,9.92,5.7,3.31,94,3,1,2
+187,user engagement,0.0,10.9,0.0,7.27,119,0,2,2
+88,gross unrecognized,5.0,10.57,1.67,10.57,92,1,3,2
+10,amount recognized,5.7,11.62,5.7,3.87,91,3,1,2
+11,benefit plan,5.7,9.92,5.7,3.31,87,3,1,2
+110,multiple user,0.0,10.05,0.0,6.7,86,0,2,2
+189,vice president,5.7,11.62,5.7,3.87,88,3,1,2
+26,class common,0.0,10.9,0.0,7.27,619,0,2,2
+186,user data,5.0,10.57,1.67,10.57,240,1,3,2
+7,affect business financial,0.0,10.9,0.0,7.27,87,0,2,2
+89,gross unrecognized tax,5.0,10.57,1.67,10.57,91,1,3,2
+182,trading price,6.0,10.57,2.0,10.57,117,1,3,2
+180,total net,5.7,11.62,5.7,3.87,101,3,1,2
+177,take action,5.0,10.57,1.67,10.57,118,1,3,2
+105,may negatively,5.0,10.57,1.67,10.57,98,1,3,2
+87,government inquiry,0.0,10.9,0.0,7.27,98,0,2,2
+104,may future,0.0,10.9,0.0,7.27,117,0,2,2
+174,stock class,0.0,10.9,0.0,7.27,88,0,2,2
+190,voting power,0.0,10.9,0.0,7.27,97,0,2,2
+131,plan agreement receivables,6.0,0.0,2.0,0.0,95,1,0,1
+109,mobile web,0.0,10.18,0.0,3.39,86,0,1,1
+108,mobile device,5.0,10.9,1.67,7.27,90,1,2,1
+137,putative class,0.0,10.18,0.0,3.39,126,0,1,1
+138,putative class action,0.0,10.18,0.0,3.39,90,0,1,1
+102,marketable equity,5.0,10.9,1.67,7.27,128,1,2,1
+115,ninth circuit,5.0,10.9,1.67,7.27,111,1,2,1
+130,plan agreement,6.0,0.0,2.0,0.0,242,1,0,1
+128,people using,6.0,10.9,2.0,7.27,90,1,2,1
+125,payment plan agreement,6.0,0.0,2.0,0.0,242,1,0,1
+112,net gain,5.5,11.62,3.67,3.87,142,2,1,1
+124,payment plan,6.0,0.0,2.0,0.0,294,1,0,1
+123,packaged good,5.0,0.0,1.67,0.0,96,1,0,1
+122,operation except per,6.11,0.0,2.04,0.0,135,1,0,1
+121,operation except,6.11,0.0,2.04,0.0,135,1,0,1
+117,note condensed consolidated,5.5,10.18,3.67,3.39,176,2,1,1
+114,next twelve,6.06,9.92,4.04,3.31,87,2,1,1
+116,note condensed,5.5,10.18,3.67,3.39,176,2,1,1
+100,live service,5.0,0.0,1.67,0.0,238,1,0,1
+157,sale product,5.56,11.62,3.7,3.87,94,2,1,1
+140,rate swap,6.0,0.0,2.0,0.0,112,1,0,1
+169,statement additional,6.0,0.0,2.0,0.0,94,1,0,1
+196,wireless wireline,6.0,0.0,2.0,0.0,96,1,0,1
+195,wireless service,6.0,0.0,2.0,0.0,245,1,0,1
+194,wireless retail postpaid,6.0,0.0,2.0,0.0,124,1,0,1
+193,wireless retail,6.0,0.0,2.0,0.0,145,1,0,1
+192,wireless license,6.0,0.0,2.0,0.0,109,1,0,1
+191,wireless device,6.0,0.0,2.0,0.0,108,1,0,1
+188,user growth,0.0,10.18,0.0,3.39,93,0,1,1
+184,user account within,0.0,10.18,0.0,3.39,112,0,1,1
+183,user account,0.0,10.18,0.0,3.39,224,0,1,1
+181,total notional,6.0,0.0,2.0,0.0,109,1,0,1
+176,swiss deferred tax,5.0,0.0,1.67,0.0,104,1,0,1
+175,swiss deferred,5.0,0.0,1.67,0.0,104,1,0,1
+173,statement operation,5.56,9.92,3.7,3.31,122,2,1,1
+172,statement income,6.0,10.9,2.0,7.27,92,1,2,1
+168,starting interest rate,6.0,0.0,2.0,0.0,88,1,0,1
+142,reference exhibit registrants,6.11,0.0,2.04,0.0,97,1,0,1
+167,starting interest,6.0,0.0,2.0,0.0,88,1,0,1
+166,similar period primarily,6.0,0.0,2.0,0.0,110,1,0,1
+165,similar period,6.0,0.0,2.0,0.0,214,1,0,1
+164,share repurchase program,6.11,10.9,2.04,7.27,93,1,2,1
+158,senior note,5.56,9.92,3.7,3.31,243,2,1,1
+99,interpublic group,6.11,0.0,2.04,0.0,89,1,0,1
+156,sale expense,5.5,10.18,3.67,3.39,88,2,1,1
+155,sale business,6.06,10.18,4.04,3.39,110,2,1,1
+154,revenue percentage,5.0,10.77,1.67,7.18,91,1,2,1
+152,revenue growth rate,6.11,10.9,2.04,7.27,87,1,2,1
+150,retail postpaid,6.0,0.0,2.0,0.0,321,1,0,1
+149,result operation except,6.11,0.0,2.04,0.0,135,1,0,1
+148,restructuring charge,6.11,0.0,2.04,0.0,118,1,0,1
+144,report quarter ended,6.06,9.92,4.04,3.31,94,2,1,1
+1,accompanying note consolidated,5.0,10.05,1.67,6.7,98,1,2,1
+199,year ended march,5.0,0.0,1.67,0.0,203,1,0,1
+98,interest rate swap,6.0,0.0,2.0,0.0,112,1,0,1
+35,compared three,5.56,9.92,3.7,3.31,126,2,1,1
+64,exhibit registrants,6.11,0.0,2.04,0.0,99,1,0,1
+63,estimated offering,5.0,0.0,1.67,0.0,108,1,0,1
+62,equivalent marketable,6.11,10.9,2.04,7.27,101,1,2,1
+60,duplicate false,0.0,10.18,0.0,3.39,98,0,1,1
+57,device payment plan,6.0,0.0,2.0,0.0,286,1,0,1
+49,currency forward,5.5,11.62,3.67,3.87,186,2,1,1
+48,cross currency,6.0,0.0,2.0,0.0,90,1,0,1
+43,content asset,0.0,9.92,0.0,3.31,121,0,1,1
+41,consolidated statement operation,5.56,9.92,3.7,3.31,105,2,1,1
+40,condensed consolidated statement,5.5,10.18,3.67,3.39,219,2,1,1
+39,condensed consolidated financial,5.5,10.18,3.67,3.39,396,2,1,1
+38,condensed consolidated balance,5.5,10.18,3.67,3.39,204,2,1,1
+37,condensed consolidated,5.5,10.18,3.67,3.39,824,2,1,1
+36,compared three month,5.56,9.92,3.7,3.31,114,2,1,1
+34,compared similar period,6.0,0.0,2.0,0.0,213,1,0,1
+69,facebook product,0.0,10.18,0.0,3.39,94,0,1,1
+33,compared similar,6.0,0.0,2.0,0.0,213,1,0,1
+31,communication service,6.06,11.62,4.04,3.87,100,2,1,1
+30,common stockholder,6.11,10.05,2.04,6.7,91,1,2,1
+28,commercial paper,6.06,11.62,4.04,3.87,149,2,1,1
+21,certain product,5.5,10.57,3.67,10.57,91,2,3,1
+19,certain asset,6.06,11.62,4.04,3.87,97,2,1,1
+18,cash flow hedge,5.5,11.62,3.67,3.87,96,2,1,1
+17,cash equivalent marketable,6.11,10.9,2.04,7.27,99,1,2,1
+15,business segment,6.0,0.0,2.0,0.0,86,1,0,1
+12,business customer,5.5,10.18,3.67,3.39,100,2,1,1
+9,amortization acquired,5.56,10.18,3.7,3.39,139,2,1,1
+8,agreement receivables,6.0,0.0,2.0,0.0,95,1,0,1
+4,across product,0.0,10.18,0.0,3.39,86,0,1,1
+3,account within,0.0,10.18,0.0,3.39,126,0,1,1
+68,extra content,5.0,0.0,1.67,0.0,285,1,0,1
+56,device payment,6.0,0.0,2.0,0.0,339,1,0,1
+83,game extra content,5.0,0.0,1.67,0.0,90,1,0,1
+74,financial statement except,6.11,0.0,2.04,0.0,128,1,0,1
+93,includes revenue,5.5,11.62,3.67,3.87,90,2,1,1
+94,including result,5.7,10.05,5.7,6.7,88,3,2,1
+78,forward contract,5.0,10.9,1.67,7.27,181,1,2,1
+80,full game,5.0,0.0,1.67,0.0,187,1,0,1
+75,flow hedge,5.5,11.62,3.67,3.87,102,2,1,1
+81,future update,5.0,0.0,1.67,0.0,122,1,0,1
+95,incorporated reference exhibit,5.56,10.18,3.7,3.39,176,2,1,1
+91,harm financial,5.0,10.9,1.67,7.27,150,1,2,1
+92,harm financial operating,0.0,11.62,0.0,3.87,89,0,1,1
+82,game extra,5.0,0.0,1.67,0.0,90,1,0,1
+70,false account,0.0,10.18,0.0,3.39,126,0,1,1
+84,game service,5.0,0.0,1.67,0.0,151,1,0,1
+73,financial statement additional,6.0,0.0,2.0,0.0,94,1,0,1
+85,google cloud,0.0,11.62,0.0,3.87,92,0,1,1
+71,family metric,0.0,10.18,0.0,3.39,173,0,1,1
+86,google network,0.0,11.62,0.0,3.87,176,0,1,1
+22,change control,5.56,10.9,3.7,7.27,102,2,2,0
+178,taxable income,5.56,10.05,3.7,6.7,110,2,2,0
+24,class capital,0.0,0.0,0.0,0.0,167,0,0,0
+179,taxonomy extension,5.5,10.9,3.67,7.27,137,2,2,0
+23,class action,6.11,10.18,2.04,3.39,115,1,1,0
+185,user base,5.0,10.18,1.67,3.39,128,1,1,0
+20,certain data,6.11,10.18,2.04,3.39,93,1,1,0
+90,harm business,5.56,10.9,3.7,7.27,89,2,2,0
+107,million share,5.5,10.9,3.67,7.27,89,2,2,0
+14,business model,5.5,10.77,3.67,7.18,132,2,2,0
+13,business financial,5.56,10.9,3.7,7.27,208,2,2,0
+106,million increase,5.5,10.77,3.67,7.18,183,2,2,0
+96,increase partially,5.5,10.77,3.67,7.18,87,2,2,0
+6,advertising revenue,5.5,10.9,3.67,7.27,237,2,2,0
+5,active user,6.0,10.18,2.0,3.39,165,1,1,0
+103,may affect,5.5,10.9,3.67,7.27,109,2,2,0
+97,increase partially offset,5.5,10.77,3.67,7.18,87,2,2,0
+2,account may,6.0,10.18,2.0,3.39,90,1,1,0
+197,xbrl taxonomy,5.5,10.9,3.67,7.27,106,2,2,0
+198,xbrl taxonomy extension,5.5,10.9,3.67,7.27,97,2,2,0
+25,class capital stock,0.0,0.0,0.0,0.0,103,0,0,0
+134,primarily due million,5.0,9.92,1.67,3.31,88,1,1,0
+113,new product,5.5,10.9,3.67,7.27,102,2,2,0
+32,compared period,5.56,10.05,3.7,6.7,103,2,2,0
+136,product may,5.56,10.9,3.7,7.27,127,2,2,0
+67,expense related,6.06,10.05,4.04,6.7,90,2,2,0
+72,financial measure,6.06,10.05,4.04,6.7,118,2,2,0
+129,period primarily due,6.06,10.05,4.04,6.7,90,2,2,0
+61,equity investment,6.06,10.9,4.04,7.27,113,2,2,0
+143,report quarter,5.7,10.57,5.7,10.57,94,3,3,0
+145,require change,0.0,0.0,0.0,0.0,95,0,0,0
+59,due million,5.0,9.92,1.67,3.31,91,1,1,0
+147,restricted cash,6.06,10.05,4.04,6.7,138,2,2,0
+58,district court,5.5,10.9,3.67,7.27,160,2,2,0
+101,loss sale,6.06,10.9,4.04,7.27,110,2,2,0
+151,revenue generated,5.5,10.9,3.67,7.27,146,2,2,0
+53,data signal,6.0,10.18,2.0,3.39,157,1,1,0
+153,revenue per,5.7,10.57,5.7,10.57,90,3,3,0
+52,data center,5.5,10.9,3.67,7.27,191,2,2,0
+51,current liability,5.5,10.9,3.67,7.27,109,2,2,0
+50,currency forward contract,5.0,11.62,1.67,3.87,141,1,1,0
+76,following present,6.06,10.9,4.04,7.27,244,2,2,0
+77,foreign currency forward,5.0,11.62,1.67,3.87,158,1,1,0
+159,service revenue,5.5,10.9,3.67,7.27,126,2,2,0
+79,free cash,5.5,10.05,3.67,6.7,115,2,2,0
+120,operating revenue,5.5,10.77,3.67,7.18,95,2,2,0
+119,officer pursuant section,5.5,10.77,3.67,7.18,91,2,2,0
+0,accompanying note,5.56,10.05,3.7,6.7,211,2,2,0

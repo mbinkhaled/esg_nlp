@@ -1,0 +1,201 @@
+,word,good_score,bad_score,good_score_all,bad_score_all,count,good_nums,bad_nums,diff
+112,inline xbrl taxonomy extension,0.17,2.39,0.15,0.72,146,9,3,6
+16,cash equivalent restricted cash,0.13,2.13,0.09,0.21,164,7,1,6
+69,effect result operation financial,0.14,2.42,0.13,0.97,159,9,4,5
+83,federal home loan bank,0.24,2.36,0.07,1.89,144,3,8,5
+155,price active market identical asset,0.09,2.35,0.03,1.65,127,3,7,4
+90,financial consolidated financial statement,0.08,2.4,0.03,1.92,321,4,8,4
+117,material adverse effect result operation,0.14,2.37,0.13,1.19,150,9,5,4
+144,note note consolidated financial,0.31,2.5,0.06,1.5,375,2,6,4
+5,adverse effect result operation financial,0.14,2.42,0.12,0.97,147,8,4,4
+164,realized investment gain loss,0.0,2.51,0.0,1.0,129,0,4,4
+181,see note note consolidated financial,0.57,2.48,0.06,1.24,211,1,5,4
+180,see note note consolidated,0.57,2.48,0.06,1.24,223,1,5,4
+4,adverse effect result operation,0.14,2.37,0.13,1.19,168,9,5,4
+116,managements discussion analysis financial condition,0.14,2.42,0.08,0.73,181,6,3,3
+81,fair value embedded derivative,0.05,2.51,0.0,1.0,147,1,4,3
+102,first quarter compared period,0.07,2.35,0.01,1.18,148,2,5,3
+115,managements discussion analysis financial,0.14,2.42,0.08,0.73,181,6,3,3
+162,quarterly report quarter ended march,0.15,2.36,0.11,0.94,157,7,4,3
+161,quarterly report quarter ended,0.15,2.36,0.11,0.94,249,7,4,3
+168,reference exhibit quarterly report,0.13,2.52,0.06,0.5,135,5,2,3
+123,million share common stock,0.18,2.47,0.14,1.24,179,8,5,3
+125,million three month ended september,0.19,2.38,0.1,1.9,181,5,8,3
+66,defined benefit pension plan,0.17,2.46,0.14,1.23,215,8,5,3
+145,note note consolidated financial statement,0.57,2.5,0.06,1.0,286,1,4,3
+0,accompanying note consolidated financial,0.12,2.31,0.02,1.15,138,2,5,3
+199,year ended december filed,0.18,2.4,0.09,1.92,158,5,8,3
+2,active market identical asset,0.1,2.35,0.04,1.65,131,4,7,3
+94,financial corporationnotes consolidated financial,0.04,0.0,0.01,0.0,174,2,0,2
+127,million year ended december compared,0.12,2.4,0.02,0.96,180,2,4,2
+1,accounting principle generally accepted,0.17,2.35,0.14,1.41,132,8,6,2
+128,month ended june compared,0.18,2.34,0.14,1.4,812,8,6,2
+76,ended march compared period,0.18,2.41,0.09,0.72,164,5,3,2
+172,restricted stock unit award,0.18,2.34,0.09,1.64,177,5,7,2
+132,month ended march compared,0.18,2.34,0.14,1.4,495,8,6,2
+170,report quarter ended march,0.15,2.35,0.11,1.18,161,7,5,2
+74,ended june compared period,0.17,2.34,0.1,0.93,220,6,4,2
+166,reference exhibit current report filed,0.15,2.42,0.06,0.48,297,4,2,2
+182,six month compared period,0.11,2.38,0.01,0.71,159,1,3,2
+165,reference exhibit current report,0.15,2.54,0.07,0.76,326,5,3,2
+62,december compared year ended,0.12,2.54,0.08,1.02,142,6,4,2
+63,december compared year ended december,0.12,2.54,0.08,1.02,142,6,4,2
+154,price active market identical,0.11,2.35,0.05,1.65,148,5,7,2
+163,quoted price active market,0.12,2.35,0.08,1.88,181,6,8,2
+72,ended december compared year ended,0.12,2.54,0.08,1.02,142,6,4,2
+139,note condensed consolidated financial,0.1,2.46,0.04,0.49,243,4,2,2
+160,quarter first six month compared,0.05,2.38,0.0,0.71,154,1,3,2
+3,adopted pursuant section act,0.13,2.44,0.05,1.46,126,4,6,2
+71,ended december compared year,0.12,2.54,0.08,1.02,142,6,4,2
+78,exhibit current report filed,0.15,2.42,0.06,0.48,297,4,2,2
+106,group subsidiariesnotes consolidated financial,0.0,2.12,0.0,0.42,164,0,2,2
+31,condensed consolidated financial amount,0.0,2.46,0.0,0.49,166,0,2,2
+80,fair value cash flow,0.22,2.37,0.11,1.66,187,5,7,2
+86,financial condensed consolidated financial,0.0,2.22,0.0,0.44,420,0,2,2
+195,three month ended september compared,0.21,2.34,0.09,1.4,155,4,6,2
+194,three month ended march compared,0.18,2.34,0.14,1.4,477,8,6,2
+190,third party pricing vendor,0.0,2.28,0.0,0.46,154,0,2,2
+183,six month ended june compared,0.18,2.34,0.14,1.4,470,8,6,2
+122,million senior note due,0.1,2.39,0.04,1.43,174,4,6,2
+104,first six month compared period,0.11,2.38,0.01,0.71,159,1,3,2
+87,financial condensed consolidated financial statement,0.0,2.22,0.0,0.44,415,0,2,2
+28,compared period primarily due,0.21,2.4,0.08,1.44,354,4,6,2
+42,consolidated financial statement included,0.17,2.46,0.14,1.47,274,8,6,2
+43,consolidated financial statement included part,0.33,2.8,0.1,0.28,135,3,1,2
+44,consolidated statement comprehensive income,0.25,2.37,0.12,1.66,167,5,7,2
+13,billion year ended december,0.18,2.42,0.15,1.45,189,8,6,2
+30,compared year ended december,0.12,2.54,0.08,1.02,170,6,4,2
+143,note consolidated financial statement included,0.28,2.62,0.11,0.78,146,4,3,1
+141,note consolidated financial contained herein,0.0,2.67,0.0,0.27,167,0,1,1
+142,note consolidated financial note,0.1,2.42,0.03,0.97,141,3,4,1
+113,interim consolidated financial statement,0.05,2.35,0.01,0.7,190,2,3,1
+131,month ended june primarily,0.17,2.34,0.1,1.64,168,6,7,1
+140,note consolidated financial contained,0.0,2.67,0.0,0.27,175,0,1,1
+137,net realized investment gain,0.57,2.74,0.06,0.55,305,1,2,1
+136,net realized capital gain,0.0,2.11,0.0,0.21,263,0,1,1
+134,month ended september compared,0.19,2.34,0.13,1.4,402,7,6,1
+147,one financial corporation contentscapital one,0.05,0.0,0.0,0.0,218,1,0,1
+130,month ended june compared period,0.19,2.29,0.08,0.69,147,4,3,1
+14,capital private equity fund,0.0,2.11,0.0,0.21,180,0,1,1
+121,million prior year period primarily,0.0,2.8,0.0,0.28,174,0,1,1
+120,million prior year period,0.0,2.8,0.0,0.28,241,0,1,1
+15,card master note trust,0.11,0.0,0.01,0.0,191,1,0,1
+17,charles schwab corporationnotes condensed,0.0,2.33,0.0,0.23,163,0,1,1
+146,one financial corporation contentscapital,0.05,0.0,0.0,0.0,224,1,0,1
+156,prior year period primarily,0.12,2.8,0.02,0.28,221,2,1,1
+148,one financial corporationnotes consolidated,0.05,0.0,0.0,0.0,173,1,0,1
+149,one financial corporationnotes consolidated financial,0.05,0.0,0.0,0.0,173,1,0,1
+198,year ended december compared,0.12,2.42,0.09,1.45,478,7,6,1
+197,venture capital private equity fund,0.0,2.11,0.0,0.21,145,0,1,1
+196,venture capital private equity,0.0,2.11,0.0,0.21,245,0,1,1
+189,synchrony credit card master note,0.11,0.0,0.01,0.0,203,1,0,1
+188,synchrony credit card master,0.11,0.0,0.01,0.0,203,1,0,1
+187,subsidiariesnotes consolidated financial statement,0.11,2.35,0.01,0.47,162,1,2,1
+186,subject master netting agreement,0.05,2.28,0.0,0.46,153,1,2,1
+185,statement included part item,0.33,2.63,0.1,0.53,141,3,2,1
+184,statement continuedunum group subsidiariesnote,0.0,2.67,0.0,0.27,153,0,1,1
+179,see note consolidated financial statement,0.2,2.5,0.12,1.25,258,6,5,1
+176,schwab discussion analysis financial condition,0.0,2.33,0.0,0.23,174,0,1,1
+175,schwab discussion analysis financial,0.0,2.33,0.0,0.23,174,0,1,1
+174,schwab corporationnotes condensed consolidated financial,0.0,2.33,0.0,0.23,163,0,1,1
+173,schwab corporationnotes condensed consolidated,0.0,2.33,0.0,0.23,163,0,1,1
+171,report year ended december filed,0.18,2.48,0.09,1.49,141,5,6,1
+169,report northern trust corporation,0.0,2.24,0.0,0.22,351,0,1,1
+167,reference exhibit filed company,0.13,0.0,0.01,0.0,154,1,0,1
+7,amount except per share,0.3,2.33,0.06,0.23,283,2,1,1
+8,analysis financial condition result amount,0.0,2.33,0.0,0.23,174,0,1,1
+9,annual report northern trust,0.0,2.24,0.0,0.22,355,0,1,1
+27,compared million prior year period,0.0,2.8,0.0,0.28,218,0,1,1
+10,annual report northern trust corporation,0.0,2.24,0.0,0.22,351,0,1,1
+152,payment fixed rate balloon due,0.13,0.0,0.01,0.0,271,1,0,1
+151,payment fixed rate balloon,0.13,0.0,0.01,0.0,271,1,0,1
+150,part item annual report,0.22,2.54,0.11,1.02,137,5,4,1
+18,charles schwab corporationnotes condensed consolidated,0.0,2.33,0.0,0.23,163,0,1,1
+100,financial statement included part item,0.33,2.63,0.1,0.53,141,3,2,1
+19,charles schwab discussion analysis,0.0,2.33,0.0,0.23,174,0,1,1
+89,financial condition result amount except,0.0,2.33,0.0,0.23,174,0,1,1
+85,financial amount except per share,0.0,2.33,0.0,0.23,268,0,1,1
+39,consolidated financial statement additional,0.12,2.62,0.05,0.78,131,4,3,1
+40,consolidated financial statement continuedunum,0.0,2.67,0.0,0.27,410,0,1,1
+84,financial amount except per,0.0,2.33,0.0,0.23,268,0,1,1
+41,consolidated financial statement continuedunum group,0.0,2.67,0.0,0.27,410,0,1,1
+82,fair value financial instrument,0.15,2.34,0.12,2.1,249,8,9,1
+23,claim claim adjustment expense reserve,0.57,0.0,0.06,0.0,135,1,0,1
+79,express companynotes consolidated financial,0.05,0.0,0.0,0.0,128,1,0,1
+77,estimate expected credit loss,0.15,2.37,0.09,1.66,215,6,7,1
+46,contentsamerican express companynotes consolidated,0.05,0.0,0.0,0.0,128,1,0,1
+47,contentsamerican express companynotes consolidated financial,0.05,0.0,0.0,0.0,128,1,0,1
+48,contentscapital one financial corporationnotes,0.05,0.0,0.0,0.0,173,1,0,1
+49,contentscapital one financial corporationnotes consolidated,0.05,0.0,0.0,0.0,173,1,0,1
+50,contentsprincipal financial condensed consolidated,0.0,2.11,0.0,0.21,415,0,1,1
+68,diluted net earnings per share,0.13,0.0,0.01,0.0,139,1,0,1
+67,diluted net earnings per,0.13,0.0,0.01,0.0,155,1,0,1
+25,compared billion prior year,0.0,2.8,0.0,0.28,131,0,1,1
+51,contentsprincipal financial condensed consolidated financial,0.0,2.11,0.0,0.21,415,0,1,1
+52,contentsprincipal financial consolidated financial,0.0,2.11,0.0,0.21,266,0,1,1
+61,credit card master note trust,0.11,0.0,0.01,0.0,191,1,0,1
+60,credit card master note,0.11,0.0,0.01,0.0,206,1,0,1
+59,corporationnotes condensed consolidated financial amount,0.0,2.33,0.0,0.23,163,0,1,1
+53,contentsprincipal financial consolidated financial statement,0.0,2.11,0.0,0.21,264,0,1,1
+54,contentssvb financial group subsidiariesnotes,0.0,2.11,0.0,0.21,164,0,1,1
+57,corporation contentscapital one financial corporationnotes,0.05,0.0,0.0,0.0,173,1,0,1
+55,contentssvb financial group subsidiariesnotes consolidated,0.0,2.11,0.0,0.21,162,0,1,1
+88,financial condition result amount,0.0,2.33,0.0,0.23,174,0,1,1
+21,claim adjustment expense reserve,0.57,0.0,0.06,0.0,158,1,0,1
+99,financial statement included part,0.33,2.63,0.1,0.53,141,3,2,1
+111,indicate check mark whether registrant,0.16,2.39,0.16,2.15,128,10,9,1
+110,indicate check mark whether,0.16,2.39,0.16,2.15,128,10,9,1
+32,condensed consolidated financial amount except,0.0,2.33,0.0,0.23,163,0,1,1
+33,condensed consolidated financial statement,0.1,2.34,0.04,0.7,767,4,3,1
+34,condition result amount except,0.0,2.33,0.0,0.23,174,0,1,1
+107,group subsidiariesnotes consolidated financial statement,0.0,2.11,0.0,0.21,160,0,1,1
+105,fixed rate balloon due,0.13,0.0,0.01,0.0,271,1,0,1
+35,consolidated financial amount except,0.0,2.33,0.0,0.23,268,0,1,1
+20,charles schwab discussion analysis financial,0.0,2.33,0.0,0.23,174,0,1,1
+91,financial contained herein item,0.0,2.67,0.0,0.27,178,0,1,1
+101,financial statement supplementary data,0.19,2.39,0.15,2.15,144,8,9,1
+56,corporation contentscapital one financial,0.05,0.0,0.0,0.0,218,1,0,1
+98,financial statement continuedunum group subsidiariesnote,0.0,2.67,0.0,0.27,153,0,1,1
+97,financial statement continuedunum group,0.0,2.67,0.0,0.27,410,0,1,1
+96,financial group subsidiariesnotes consolidated financial,0.0,2.11,0.0,0.21,162,0,1,1
+36,consolidated financial amount except per,0.0,2.33,0.0,0.23,268,0,1,1
+95,financial group subsidiariesnotes consolidated,0.0,2.11,0.0,0.21,162,0,1,1
+37,consolidated financial contained herein,0.0,2.67,0.0,0.27,173,0,1,1
+93,financial corporation contentscapital one financial,0.05,0.0,0.0,0.0,218,1,0,1
+92,financial corporation contentscapital one,0.05,0.0,0.0,0.0,218,1,0,1
+38,consolidated financial contained herein item,0.0,2.67,0.0,0.27,173,0,1,1
+191,third quarter first nine,0.24,2.38,0.07,0.71,187,3,3,0
+178,second quarter first six month,0.06,2.38,0.02,0.71,378,3,3,0
+177,second quarter first six,0.06,2.38,0.02,0.71,380,3,3,0
+45,consolidated statement financial position,0.11,2.11,0.01,0.21,154,1,1,0
+193,three month ended june compared,0.2,2.34,0.12,1.4,305,6,6,0
+29,compared three month ended,0.15,2.27,0.05,0.68,142,3,3,0
+192,third quarter first nine month,0.24,2.38,0.07,0.71,187,3,3,0
+24,common equity tier capital,0.08,2.39,0.03,0.96,135,4,4,0
+58,corporationnotes condensed consolidated financial,0.03,2.33,0.0,0.23,168,1,1,0
+12,asset liability measured fair value,0.16,2.32,0.11,1.62,192,7,7,0
+109,increased million three month ended,0.33,2.5,0.1,0.75,174,3,3,0
+118,measurement credit loss financial,0.16,2.32,0.11,1.62,184,7,7,0
+119,million aggregate principal amount,0.22,2.39,0.09,0.95,130,4,4,0
+108,increased million three month,0.33,2.5,0.1,0.75,175,3,3,0
+103,first six month compared,0.19,2.4,0.08,0.96,242,4,4,0
+124,million three month ended june,0.2,2.34,0.14,1.64,337,7,7,0
+126,million three six month ended,0.2,2.32,0.14,1.62,126,7,7,0
+129,month ended june compared million,0.21,2.33,0.09,0.93,248,4,4,0
+133,month ended march compared million,0.25,2.36,0.08,0.71,159,3,3,0
+135,net earnings per share,0.13,2.46,0.01,0.25,161,1,1,0
+138,nine month ended september compared,0.17,2.34,0.1,1.4,228,6,6,0
+11,asset liability measured fair,0.16,2.32,0.11,1.62,194,7,7,0
+6,allowance credit loss loan,0.09,2.23,0.03,0.67,134,3,3,0
+22,claim claim adjustment expense,0.57,2.67,0.06,0.27,259,1,1,0
+75,ended march compared million,0.21,2.39,0.09,0.96,163,4,4,0
+153,power direct activity significantly,0.09,2.36,0.04,1.18,132,5,5,0
+73,ended june compared million,0.21,2.33,0.09,0.93,249,4,4,0
+70,effective income tax rate,0.22,2.38,0.13,1.43,259,6,6,0
+114,liability measured fair value recurring,0.16,2.32,0.11,1.62,223,7,7,0
+157,private equity fund investment,0.11,2.11,0.01,0.21,127,1,1,0
+158,quarter first nine month,0.24,2.38,0.07,0.71,187,3,3,0
+159,quarter first six month,0.06,2.38,0.02,0.71,378,3,3,0
+65,decreased million three month ended,0.28,2.54,0.11,1.02,157,4,4,0
+64,decreased million three month,0.28,2.54,0.11,1.02,157,4,4,0
+26,compared million prior year,0.57,2.8,0.06,0.28,340,1,1,0

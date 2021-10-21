@@ -1,0 +1,201 @@
+,word,good_score,bad_score,good_score_all,bad_score_all,count,good_nums,bad_nums,diff
+105,investment fund,0.1,2.39,0.03,2.15,331,3,9,6
+76,exhibit filed,0.16,2.5,0.16,1.0,368,10,4,6
+83,financial consolidated financial,0.08,2.37,0.03,2.13,338,4,9,5
+133,mortgage loan,0.24,2.36,0.07,1.89,1416,3,8,5
+12,asset management,0.21,2.34,0.08,2.1,1023,4,9,5
+186,taxonomy extension,0.17,2.37,0.15,0.95,445,9,4,5
+20,capital gain,0.13,2.32,0.01,1.39,379,1,6,5
+57,credit exposure,0.2,2.34,0.08,2.1,339,4,9,5
+35,commercial mortgage loan,0.05,2.44,0.0,1.22,551,1,5,4
+148,note note consolidated,0.31,2.5,0.06,1.5,427,2,6,4
+134,mutual fund,0.23,2.33,0.12,2.09,512,5,9,4
+177,see item,0.1,2.39,0.05,2.15,425,5,9,4
+157,prior year period,0.19,2.64,0.13,0.79,403,7,3,4
+171,repurchase agreement,0.1,2.34,0.04,1.87,358,4,8,4
+26,cash collateral,0.22,2.34,0.11,2.1,419,5,9,4
+99,herein reference,0.28,2.34,0.11,1.87,370,4,8,4
+131,million senior,0.19,2.39,0.1,2.15,338,5,9,4
+21,capital ratio,0.08,2.36,0.03,1.89,627,4,8,4
+34,commercial mortgage,0.24,2.37,0.07,1.66,929,3,7,4
+96,gross unrealized,0.18,2.34,0.09,2.1,386,5,9,4
+103,insurance subsidiary,0.57,2.44,0.06,1.22,328,1,5,4
+111,limited partnership,0.33,2.37,0.1,1.66,363,3,7,4
+198,willis tower,0.12,0.0,0.05,0.0,604,4,0,4
+117,loan modification,0.08,2.35,0.03,1.88,577,4,8,4
+7,american express,0.13,2.8,0.06,0.28,547,5,1,4
+125,marsh mclennan,0.1,0.0,0.04,0.0,348,4,0,4
+8,amortized cost basis,0.23,2.34,0.12,2.1,474,5,9,4
+126,master netting,0.13,2.36,0.05,1.89,685,4,8,4
+112,loan held,0.08,2.33,0.02,1.17,884,2,5,3
+94,future policy benefit,0.57,2.51,0.06,1.0,425,1,4,3
+122,long term,0.24,2.39,0.12,1.92,396,5,8,3
+124,market impact,0.27,2.31,0.08,1.38,405,3,6,3
+62,day past,0.18,2.36,0.09,1.89,524,5,8,3
+63,defined benefit pension,0.17,2.46,0.14,1.23,380,8,5,3
+107,investment gain loss,0.34,2.43,0.07,1.21,327,2,5,3
+118,loan portfolio,0.18,2.36,0.09,1.89,945,5,8,3
+154,policy benefit,0.57,2.51,0.06,1.0,500,1,4,3
+152,past due,0.18,2.36,0.09,1.89,474,5,8,3
+149,notional amount,0.17,2.4,0.14,1.2,353,8,5,3
+116,loan loss,0.08,2.32,0.03,1.62,326,4,7,3
+145,noninterest income,0.0,2.18,0.0,0.65,408,0,3,3
+142,net revenue,0.14,2.46,0.1,0.98,407,7,4,3
+97,held sale,0.2,2.39,0.08,1.67,336,4,7,3
+106,investment gain,0.24,2.39,0.07,1.43,1159,3,6,3
+115,loan loan,0.08,2.32,0.03,1.62,347,4,7,3
+87,financial strength,0.17,2.42,0.09,1.94,388,5,8,3
+114,loan lease,0.05,2.16,0.0,0.86,625,1,4,3
+92,fixed maturity,0.57,2.51,0.06,1.0,2277,1,4,3
+166,realized investment gain,0.34,2.43,0.07,1.21,473,2,5,3
+93,future policy,0.57,2.51,0.06,1.0,489,1,4,3
+199,willis tower watson,0.12,0.0,0.04,0.0,541,3,0,3
+123,management fee,0.21,2.3,0.1,1.84,334,5,8,3
+178,separate account,0.13,2.39,0.01,0.96,503,1,4,3
+176,second quarter first,0.17,2.38,0.1,0.71,409,6,3,3
+32,class common,0.11,2.39,0.05,1.67,685,4,7,3
+25,care act,0.14,2.29,0.13,1.38,360,9,6,3
+190,tower watson,0.12,0.0,0.04,0.0,662,3,0,3
+36,commercial real,0.22,2.33,0.06,1.4,399,3,6,3
+37,commercial real estate,0.22,2.33,0.06,1.4,333,3,6,3
+6,allowance loan,0.08,2.32,0.03,1.62,420,4,7,3
+197,wealth management,0.12,2.33,0.02,1.17,336,2,5,3
+195,variable annuity,0.0,2.46,0.0,0.49,830,0,2,2
+98,herein item,0.35,2.54,0.07,1.02,385,2,4,2
+84,financial corporation,0.24,2.52,0.1,0.5,1245,4,2,2
+85,financial measure,0.16,2.4,0.15,1.68,446,9,7,2
+165,realized investment,0.24,2.43,0.07,1.21,563,3,5,2
+139,net periodic,0.18,2.4,0.14,1.44,478,8,6,2
+2,adjusted operating,0.15,2.74,0.06,0.55,760,4,2,2
+31,claim claim,0.25,2.53,0.13,0.76,348,5,3,2
+29,claim adjustment,0.57,2.53,0.06,0.76,411,1,3,2
+119,loan receivables,0.08,2.35,0.03,0.47,1119,4,2,2
+1,account asset,0.07,2.36,0.01,0.94,347,2,4,2
+23,card member,0.05,0.0,0.01,0.0,1435,2,0,2
+14,available sale,0.2,2.3,0.12,1.84,644,6,8,2
+22,card loan,0.08,2.14,0.03,0.43,640,4,2,2
+4,adoption asu,0.16,2.26,0.11,1.13,339,7,5,2
+191,transaction fee,0.08,2.36,0.03,1.41,332,4,6,2
+17,benefit pension,0.17,2.41,0.14,1.45,435,8,6,2
+16,basel iii,0.08,2.3,0.03,1.38,427,4,6,2
+15,bank holding,0.08,2.38,0.03,1.42,380,4,6,2
+110,level level,0.18,2.38,0.11,1.9,541,6,8,2
+167,reference exhibit current,0.15,2.54,0.07,0.76,326,5,3,2
+185,stress test,0.09,2.3,0.04,1.61,353,5,7,2
+141,net realized investment,0.57,2.64,0.06,0.79,356,1,3,2
+74,exhibit current,0.15,2.54,0.07,0.76,326,5,3,2
+56,credit card loan,0.08,2.14,0.03,0.43,604,4,2,2
+47,consolidated statement income,0.18,2.32,0.09,1.62,464,5,7,2
+179,series preferred,0.08,2.26,0.03,1.36,371,4,6,2
+143,netting agreement,0.07,2.35,0.02,1.18,329,3,5,2
+71,embedded derivative,0.31,2.51,0.06,1.0,626,2,4,2
+180,significant unobservable,0.17,2.39,0.1,1.92,380,6,8,2
+181,small business,0.18,2.32,0.15,1.39,361,8,6,2
+61,current report filed,0.14,2.27,0.08,0.91,423,6,4,2
+75,exhibit current report,0.15,2.54,0.07,0.76,326,5,3,2
+127,member loan,0.05,0.0,0.0,0.0,506,1,0,1
+164,realized capital gain,0.0,2.11,0.0,0.21,349,0,1,1
+163,realized capital,0.0,2.11,0.0,0.21,394,0,1,1
+183,statement continuedunum group,0.0,2.67,0.0,0.27,410,0,1,1
+169,report northern,0.0,2.24,0.0,0.22,355,0,1,1
+160,provision credit loss,0.08,2.18,0.03,0.65,456,4,3,1
+196,venture capital,0.35,2.25,0.07,0.68,434,2,3,1
+159,provision credit,0.13,2.22,0.06,0.89,764,5,4,1
+194,unum group,0.0,2.67,0.0,0.27,351,0,1,1
+192,trust corporation,0.0,2.24,0.0,0.22,469,0,1,1
+158,private equity,0.17,2.37,0.1,1.66,698,6,7,1
+170,report northern trust,0.0,2.24,0.0,0.22,355,0,1,1
+140,net realized,0.2,2.35,0.12,1.65,715,6,7,1
+173,restricted cash,0.13,2.5,0.09,1.5,517,7,6,1
+187,td ameritrade,0.0,2.33,0.0,0.23,386,0,1,1
+156,principal financial,0.15,2.31,0.11,1.38,328,7,6,1
+155,postretirement benefit,0.19,2.41,0.14,1.45,349,7,6,1
+128,million increase,0.2,2.38,0.14,1.9,500,7,8,1
+146,northern trust,0.0,2.24,0.0,0.22,1722,0,1,1
+147,northern trust corporation,0.0,2.24,0.0,0.22,426,0,1,1
+151,one financial corporation,0.05,0.0,0.0,0.0,1191,1,0,1
+150,one financial,0.08,2.49,0.02,0.5,1492,3,2,1
+138,net investment income,0.28,2.44,0.11,1.22,759,4,5,1
+136,net income attributable,0.18,2.18,0.09,0.87,326,5,4,1
+189,total loan,0.08,2.36,0.03,1.18,404,4,5,1
+182,statement continuedunum,0.0,2.67,0.0,0.27,410,0,1,1
+188,tier capital,0.08,2.33,0.03,1.17,420,4,5,1
+129,million prior,0.21,2.4,0.09,1.2,557,4,5,1
+100,income attributable,0.17,2.33,0.1,1.63,652,6,7,1
+121,loews hotel,0.57,0.0,0.06,0.0,465,1,0,1
+42,compared period primarily,0.18,2.4,0.09,1.44,382,5,6,1
+28,charles schwab,0.0,2.33,0.0,0.23,753,0,1,1
+46,consolidated statement financial,0.12,2.32,0.03,0.93,689,3,4,1
+72,ended december compared,0.12,2.42,0.09,1.45,542,7,6,1
+68,due primarily,0.21,2.33,0.1,1.4,433,5,6,1
+38,common equity,0.1,2.34,0.06,1.64,524,6,7,1
+67,discover financial,0.11,0.0,0.01,0.0,415,1,0,1
+39,company belief,0.21,2.46,0.13,1.23,354,6,5,1
+60,currency rate,0.22,2.35,0.13,1.64,466,6,7,1
+58,credit spread,0.15,2.4,0.09,1.68,430,6,7,1
+79,fee revenue,0.08,2.33,0.05,1.63,430,6,7,1
+120,loews corporation,0.57,0.0,0.06,0.0,431,1,0,1
+44,condensed consolidated financial,0.1,2.34,0.04,0.7,1358,4,3,1
+54,continuedunum group,0.0,2.67,0.0,0.27,411,0,1,1
+52,contentsthe following,0.06,2.22,0.02,1.11,326,4,5,1
+51,contentsprincipal financial condensed,0.0,2.11,0.0,0.21,415,0,1,1
+50,contentsprincipal financial,0.0,2.11,0.0,0.21,714,0,1,1
+49,contained herein item,0.0,2.67,0.0,0.27,333,0,1,1
+48,contained herein,0.11,2.46,0.01,0.49,361,1,2,1
+78,fee income,0.1,2.29,0.04,1.14,336,4,5,1
+30,claim adjustment expense,0.57,2.39,0.06,0.48,366,1,2,1
+91,first six month,0.19,2.35,0.08,1.18,781,4,5,1
+89,first nine month,0.18,2.31,0.09,1.39,437,5,6,1
+9,amount except,0.3,2.33,0.06,0.23,457,2,1,1
+95,gain investment,0.17,2.32,0.1,1.16,333,6,5,1
+80,final rule,0.17,2.29,0.1,1.6,465,6,7,1
+5,aflac japan,0.0,2.46,0.0,0.25,732,0,1,1
+13,attributable noncontrolling,0.24,2.25,0.07,0.9,374,3,4,1
+10,annual report northern,0.0,2.24,0.0,0.22,355,0,1,1
+18,boardwalk pipeline,0.57,0.0,0.06,0.0,473,1,0,1
+88,first nine,0.18,2.31,0.09,1.39,438,5,6,1
+109,letter credit,0.22,2.35,0.13,1.65,556,6,7,1
+113,loan held investment,0.08,2.25,0.02,0.68,430,2,3,1
+86,financial statement continuedunum,0.0,2.67,0.0,0.27,410,0,1,1
+19,business segment,0.1,2.45,0.06,1.71,472,6,7,1
+24,card member loan,0.05,0.0,0.0,0.0,456,1,0,1
+101,increased billion,0.21,2.32,0.13,1.62,432,6,7,1
+3,adjustment expense,0.35,2.39,0.07,0.48,376,2,2,0
+175,revenue revenue,0.17,2.37,0.1,1.42,352,6,6,0
+45,condensed consolidated statement,0.12,2.34,0.03,0.7,417,3,3,0
+27,certain investment,0.18,2.37,0.13,1.66,329,7,7,0
+43,condensed consolidated,0.1,2.29,0.04,0.92,2002,4,4,0
+11,asset consolidated balance,0.19,2.4,0.14,1.68,386,7,7,0
+193,unfunded credit,0.05,2.11,0.0,0.21,345,1,1,0
+41,compared million prior,0.57,2.8,0.06,0.28,372,1,1,0
+40,compared billion,0.16,2.37,0.11,1.66,475,7,7,0
+184,stock incentive,0.07,2.37,0.02,0.71,353,3,3,0
+33,commercial banking,0.04,2.17,0.01,0.43,333,2,2,0
+174,revenue growth,0.13,2.32,0.09,1.62,329,7,7,0
+161,quarter first six,0.06,2.38,0.02,0.71,380,3,3,0
+172,residential mortgage,0.06,2.36,0.02,0.71,430,3,3,0
+168,report file,0.16,2.36,0.16,2.36,367,10,10,0
+108,investment income,0.19,2.35,0.14,1.65,1420,7,7,0
+104,interest fee,0.08,2.42,0.03,0.97,466,4,4,0
+102,insurance company,0.15,2.42,0.11,1.69,651,7,7,0
+130,million prior year,0.31,2.49,0.06,0.5,463,2,2,0
+132,month compared,0.19,2.4,0.08,0.96,378,4,4,0
+135,net earnings,0.19,2.46,0.06,0.74,764,3,3,0
+90,first six,0.17,2.35,0.09,1.18,784,5,5,0
+137,net interest income,0.08,2.28,0.03,0.91,1027,4,4,0
+82,financial condensed consolidated,0.11,2.22,0.02,0.44,428,2,2,0
+81,financial condensed,0.11,2.22,0.02,0.44,428,2,2,0
+144,noncontrolling interest,0.2,2.25,0.08,0.9,646,4,4,0
+77,federal banking,0.13,2.33,0.06,1.17,440,5,5,0
+73,equity warrant,0.57,2.11,0.06,0.21,409,1,1,0
+70,effective income tax,0.2,2.36,0.14,1.65,328,7,7,0
+69,effective income,0.2,2.36,0.14,1.65,339,7,7,0
+153,period primarily due,0.19,2.46,0.13,1.72,508,7,7,0
+66,derivative financial instrument,0.2,2.29,0.12,1.38,384,6,6,0
+65,derivative financial,0.18,2.27,0.13,1.59,552,7,7,0
+64,derivative asset,0.13,2.37,0.09,1.66,607,7,7,0
+59,currency forward,0.07,2.44,0.04,1.22,326,5,5,0
+162,rate per,0.16,2.36,0.16,2.36,419,10,10,0
+55,credit card,0.08,2.35,0.03,0.94,2473,4,4,0
+53,contingent consideration,0.17,2.5,0.07,1.0,369,4,4,0
+0,accompanying note,0.21,2.27,0.13,1.36,451,6,6,0
